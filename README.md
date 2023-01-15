@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - [Cipher Decipher](https://github.com/hjeronen/cipher-decipher)
   - A simple substitution encryption breaking application using well optimized backtracking algorithm and frequency analysis
-  - Technologies: Java
+  - Technologies: Java, Gradle
   
 - [Opetussovellus Kurssikanta](https://github.com/hjeronen/tsoha-opetussovellus) (Documentation in Finnish only)
   - A teaching platform web application
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   
 - [Tamagotchi](https://github.com/hjeronen/ot-harjoitustyo) (Documentation in Finnish only)
   - A locally runnable remake of the Tamagotchi pet care game
-  - Technologies: Java, SQL
+  - Technologies: Java, Maven, SQL
 
 ## 🔭 Now working on...
 
