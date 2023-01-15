@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-I study Computer Science at the University of Helsinki.
-
 - Interests:
   - :lock: Cyber Security
   - :globe_with_meridians: Web Development
@@ -38,7 +36,7 @@ I study Computer Science at the University of Helsinki.
 
 ### Outside GitHub:
 
-- Software Engineering Project: [RDMIntro](https://version.helsinki.fi/rdmintro/rdmintro)
+- Software Engineering Project: [RDMIntro](https://version.helsinki.fi/rdmintro/rdmintro) (in GitLab)
   - A web application for the Library of the University of Helsinki
   - NOTE: possibly under further development by a different team of students!
   - Technologies: React, Nginx, Django, Django Rest Framework, Gunicorn, Docker, OpenShift, PostgreSQL
@@ -52,14 +50,14 @@ I study Computer Science at the University of Helsinki.
 - [Opetussovellus Kurssikanta](https://github.com/hjeronen/tsoha-opetussovellus) (Documentation in Finnish only)
   - A teaching platform web application
   - NOTE: Due to Heroku removing their free tier services, it is no longer possible to access the application from browser
-  - Technologies: Python, HTML, CSS, PostgreSQL
+  - Technologies: Python, Flask, HTML, CSS, PostgreSQL
   
 - [Tamagotchi](https://github.com/hjeronen/ot-harjoitustyo) (Documentation in Finnish only)
   - A locally runnable remake of the Tamagotchi pet care game
   - Technologies: Java, SQL
 
-## Now working on...
+## 🔭 Now working on...
 
-- 🔭 I’m currently working on [Project Birdnest 2023](https://github.com/hjeronen/project_birdnest_2023) :bird:
+- I’m currently working on [Project Birdnest 2023](https://github.com/hjeronen/project_birdnest_2023) :bird:
   - A solution for the preassignment of the [Developer Trainee, Summer 2023](https://www.reaktor.com/careers/developer-trainee-summer-2023-6514340002/) application at Reaktor
-  - Technologies: React, Nginx, Django, Django Rest Framework, Django Channels, Gunicorn, Daphne, Docker, PostgreSQL
+  - Technologies: React, Nginx, Python, Django, Django Rest Framework, Django Channels, Gunicorn, Daphne, Redis, Docker, PostgreSQL
