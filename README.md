@@ -30,11 +30,13 @@ Here are some ideas to get you started:
   - :globe_with_meridians: Web Development
   - :video_game: Game Programming
 
-- 🌱 Recently I have been learning about websockets and updating web pages in real time
+- 🌱 Recently I have been learning about...
+  - Microprocessor architecture and pipelines
+  - How to create games with React
 
 ## Some more interesting projects
 
-### Outside GitHub:
+### Outside GitHub
 
 - Software Engineering Project: [RDMIntro](https://version.helsinki.fi/rdmintro/rdmintro) (in GitLab)
   - A web application for the Library of the University of Helsinki
@@ -56,8 +58,18 @@ Here are some ideas to get you started:
   - A locally runnable remake of the Tamagotchi pet care game
   - Technologies: Java, Maven, SQL
 
+### Other
+
+- [Project Birdnest 2023](https://github.com/hjeronen/project_birdnest_2023) :bird:
+  - A solution for the preassignment of the [Developer Trainee, Summer 2023](https://www.reaktor.com/careers/developer-trainee-summer-2023-6514340002/) application at Reaktor
+  - Learning to use websockets
+  - Technologies: React, Nginx, Python, Django, Django Rest Framework, Django Channels, Gunicorn, Daphne, Redis, Docker, PostgreSQL
+
 ## 🔭 Now working on...
 
-- I’m currently working on [Project Birdnest 2023](https://github.com/hjeronen/project_birdnest_2023) :bird:
-  - A solution for the preassignment of the [Developer Trainee, Summer 2023](https://www.reaktor.com/careers/developer-trainee-summer-2023-6514340002/) application at Reaktor
-  - Technologies: React, Nginx, Python, Django, Django Rest Framework, Django Channels, Gunicorn, Daphne, Redis, Docker, PostgreSQL
+- I’m currently writing my bachelor’s thesis on transient execution vulnerabilities in modern microprocessors, so I have very little time for anything else
+
+- I did start creating [a clone of snake](https://github.com/hjeronen/snake) with React &#128013;
+  - Will continue as soon as I have some free time...
+
+
