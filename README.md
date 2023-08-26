@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   - :video_game: Game Programming
 
 - 🌱 Recently I have been learning about...
-  - Microprocessor architecture and pipelines
+  - Full Stack web development with React and Node.js
   - How to create games with React
 
 ## Some more interesting projects
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Now working on...
 
-- I’m currently writing my bachelor’s thesis on transient execution vulnerabilities in modern microprocessors, so I have very little time for anything else
+- Exercises for the course [Full Stack Open](https://fullstackopen.com/)
 
 - I did start creating [a clone of snake](https://github.com/hjeronen/snake) with React &#128013;
   - Will continue as soon as I have some free time...
