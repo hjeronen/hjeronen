@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my personal GitHub account that I use for course or personal projects, or just to test out something new. Below you can find some more noteworthy projects and what I'm currently working on.
+This is my personal GitHub account that I use for course and personal projects, or just to test out something new. Below you can find some more noteworthy projects and what I'm currently working on.
 
 <!--
 **hjeronen/hjeronen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
