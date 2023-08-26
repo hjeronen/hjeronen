@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 ## 🔭 Now working on...
 
 - Exercises for the course [Full Stack Open](https://fullstackopen.com/)
+  - Link to my exercise repository: https://github.com/hjeronen/FullStackOpen
+  - Part 3 exercises found here: https://github.com/hjeronen/FullStackOsa3
 
 - I did start creating [a clone of snake](https://github.com/hjeronen/snake) with React &#128013;
   - Will continue as soon as I have some free time...
