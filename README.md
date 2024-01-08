@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 Recently I have been learning about...
   - Full Stack web development with React and Node.js
-  - How to create games with React
+  - User interface design
 
 ## Some more interesting projects
 
@@ -44,6 +44,10 @@ Here are some ideas to get you started:
   - Technologies: React, Nginx, Django, Django Rest Framework, Gunicorn, Docker, OpenShift, PostgreSQL
 
 ### Course projects
+
+- [HabitTracker](https://github.com/hjeronen/habitTracker)
+  - Design for a user interface for a simple habit tracking application
+  - Technologies: React
 
 - [Cipher Decipher](https://github.com/hjeronen/cipher-decipher)
   - A simple substitution encryption breaking application using well optimized backtracking algorithm and frequency analysis
@@ -70,8 +74,6 @@ Here are some ideas to get you started:
 - Exercises for the course [Full Stack Open](https://fullstackopen.com/)
   - Link to my exercise repository: https://github.com/hjeronen/FullStackOpen
   - Part 3 exercises found here: https://github.com/hjeronen/FullStackOsa3
-
-- I did start creating [a clone of snake](https://github.com/hjeronen/snake) with React &#128013;
-  - Will continue as soon as I have some free time...
+  - Technologies: React, Node.js
 
 
