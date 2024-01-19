@@ -42,6 +42,13 @@ Here are some ideas to get you started:
   - A web application for the Library of the University of Helsinki
   - NOTE: possibly under further development by a different team of students!
   - Technologies: React, Nginx, Django, Django Rest Framework, Gunicorn, Docker, OpenShift, PostgreSQL
+ 
+### Full Stack Web Development
+
+- Completed parts 0-7 of the course [Full Stack Open](https://fullstackopen.com/)
+  - Link to my exercise repository: https://github.com/hjeronen/FullStackOpen
+  - Part 3 exercises found here: https://github.com/hjeronen/FullStackOsa3
+  - Technologies: React, Node.js, MongoDB
 
 ### Course projects
 
@@ -71,9 +78,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Now working on...
 
-- Exercises for the course [Full Stack Open](https://fullstackopen.com/)
-  - Link to my exercise repository: https://github.com/hjeronen/FullStackOpen
-  - Part 3 exercises found here: https://github.com/hjeronen/FullStackOsa3
-  - Technologies: React, Node.js
+- I'm currently building a compiler with Python for the course [Compilers](https://hy-compilers.github.io/spring-2024/)
+  - Project repository: https://github.com/hjeronen/compilers_project
+  - Technologies: Python
 
 
