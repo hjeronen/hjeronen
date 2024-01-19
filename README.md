@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 🌱 Recently I have been learning about...
   - Full Stack web development with React and Node.js
   - User interface design
+  - Compilers
 
 ## Some more interesting projects
 
