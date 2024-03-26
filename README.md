@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   - Full Stack web development with React and Node.js
   - User interface design
   - Compilers
+  - Spring Boot
 
 ## Some more interesting projects
 
@@ -52,6 +53,10 @@ Here are some ideas to get you started:
   - Technologies: React, Node.js, MongoDB
 
 ### Course projects
+
+- [Compiler](https://github.com/hjeronen/compilers_project)
+  - A compiler with Python for the course [Compilers](https://hy-compilers.github.io/spring-2024/)
+  - Technologies: Python
 
 - [HabitTracker](https://github.com/hjeronen/habitTracker)
   - Design for a user interface for a simple habit tracking application
@@ -79,8 +84,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Now working on...
 
-- I'm currently building a compiler with Python for the course [Compilers](https://hy-compilers.github.io/spring-2024/)
-  - Project repository: https://github.com/hjeronen/compilers_project
-  - Technologies: Python
+- I am now learning Spring Boot, and making a small [ToDo app](https://github.com/hjeronen/spring-todo)
+  - Also getting familiar with old school React
+  - Technologies: Java, Spring Boot, React
 
 
