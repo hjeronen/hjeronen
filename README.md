@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! :smiley:
 
 This is my personal GitHub account that I use for course and personal projects. Below you can find some more noteworthy projects and what I'm currently working on.
 
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
   - :video_game: Game Programming
 
 - 🌱 Recently I have been learning about...
-  - Full Stack web development with React and Node.js
-  - User interface design
-  - Compilers
-  - Spring Boot
+  - Lua
+  - Microsoft Azure
+  - TypeScript (course completed, see below!)
+  - Satellite communication systems :satellite:
 
 ## Some more interesting projects
 
@@ -51,6 +51,10 @@ Here are some ideas to get you started:
   - Link to my exercise repository: https://github.com/hjeronen/FullStackOpen
   - Part 3 exercises found here: https://github.com/hjeronen/FullStackOsa3
   - Technologies: React, Node.js, MongoDB
+ 
+- Completed Part 9: TypeScript of the course [Full Stack Open](https://fullstackopen.com/en/part9)
+  - Link to my exercise repository: https://github.com/hjeronen/FullStackTypeScript
+  - Technologies: TypeScript (with React and Node.js)
 
 ### Course projects
 
@@ -77,6 +81,10 @@ Here are some ideas to get you started:
 
 ### Other
 
+- Learning Spring Boot, and making a small [ToDo app](https://github.com/hjeronen/spring-todo)
+  - Also getting familiar with old school React
+  - Technologies: Java, Spring Boot, React
+
 - [Project Birdnest 2023](https://github.com/hjeronen/project_birdnest_2023) :bird:
   - A solution for the preassignment of the [Developer Trainee, Summer 2023](https://www.reaktor.com/careers/developer-trainee-summer-2023-6514340002/) application at Reaktor
   - Learning to use websockets
@@ -84,8 +92,8 @@ Here are some ideas to get you started:
 
 ## 🔭 Now working on...
 
-- I am now learning Spring Boot, and making a small [ToDo app](https://github.com/hjeronen/spring-todo)
-  - Also getting familiar with old school React
-  - Technologies: Java, Spring Boot, React
+- [Ledger](https://github.com/hjeronen/Ledger)
+  - Personal project, World of Warcraft Classic AddOn
+  - Technologies: Lua (maybe xml at some point)
 
 
