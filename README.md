@@ -29,21 +29,41 @@ Here are some ideas to get you started:
   - :lock: Cyber Security
   - :globe_with_meridians: Web Development
   - :video_game: Game Programming
+ 
+- Skills:
+  - Languages: Java, Python, JavaScript, React, Node.js, TypeScript, HTML, CSS, C++
+  - Web development:
+    - Frameworks: Express, Django, Django REST Framework, Flask, SpringBoot
+    - APIs: REST, GraphQL
+  - Databases: SQL, PostgreSQL, Transact-SQL, MongoDB
+  - Containers: Docker, OpenShift
+  - Agile methods: Scrum, Kanban
+  - Other: Git, Command line (bash, CMD), Jira
 
 - 🌱 Recently I have been learning about...
-  - Lua
+  - GraphQL
   - Microsoft Azure
-  - TypeScript (course completed, see below!)
-  - Satellite communication systems :satellite:
+  - Swift
+
+<br/>
+ 
+## 🔭 Now working on...
+
+- [Full Stack Open, part 8: GraphQL](https://github.com/hjeronen/FullStackGraphQL)
+  - Continuing course [Full Stack Open](https://fullstackopen.com/en/) (see more below)
+  - Technologies: GraphQL, React, Node.js, MongoDB
+ 
+- [WineDiary](https://github.com/hjeronen/WineDiary)
+  - Personal project to learn iOS app development with XCode and SwiftUI
+  - Technologies: Swift
+
+- [Ledger](https://github.com/hjeronen/Ledger)
+  - Personal project, World of Warcraft Classic AddOn
+  - Technologies: Lua (maybe xml at some point)
+
+<br/>
 
 ## Some more interesting projects
-
-### Outside GitHub
-
-- Software Engineering Project: [RDMIntro](https://version.helsinki.fi/rdmintro/rdmintro) (in GitLab)
-  - A web application for the Library of the University of Helsinki
-  - NOTE: possibly under further development by a different team of students!
-  - Technologies: React, Nginx, Django, Django Rest Framework, Gunicorn, Docker, OpenShift, PostgreSQL
  
 ### Full Stack Web Development
 
@@ -89,11 +109,10 @@ Here are some ideas to get you started:
   - A solution for the preassignment of the [Developer Trainee, Summer 2023](https://www.reaktor.com/careers/developer-trainee-summer-2023-6514340002/) application at Reaktor
   - Learning to use websockets
   - Technologies: React, Nginx, Python, Django, Django Rest Framework, Django Channels, Gunicorn, Daphne, Redis, Docker, PostgreSQL
-
-## 🔭 Now working on...
-
-- [Ledger](https://github.com/hjeronen/Ledger)
-  - Personal project, World of Warcraft Classic AddOn
-  - Technologies: Lua (maybe xml at some point)
+ 
+- Software Engineering Project: [RDMIntro](https://version.helsinki.fi/rdmintro/rdmintro) (in GitLab)
+  - A web application for the Library of the University of Helsinki
+  - NOTE: possibly under further development by a different team of students!
+  - Technologies: React, Nginx, Django, Django Rest Framework, Gunicorn, Docker, OpenShift, PostgreSQL
 
 
