@@ -1,6 +1,6 @@
 ## Hello there! :smiley:
 
-This is my GitHub account that I use for course and personal projects. Below you can find some more noteworthy projects and what I'm currently working on.
+This is my GitHub account that I use for course and personal projects. Below you can find some more noteworthy projects and what I am currently working on.
 
 <!--
 **hjeronen/hjeronen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,22 +25,22 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-- Interests:
+### Interests
   - :lock: Cyber Security
   - :globe_with_meridians: Web Development
   - :video_game: Game Programming
  
-- Skills:
-  - Languages: Java, Python, JavaScript, React, Node.js, TypeScript, HTML, CSS, C++
-  - Web development:
-    - Frameworks: Express, Django, Django REST Framework, Flask, SpringBoot
-    - APIs: REST, GraphQL
-  - Databases: SQL, PostgreSQL, Transact-SQL, MongoDB
-  - Containers: Docker, OpenShift
-  - Agile methods: Scrum, Kanban
-  - Other: Git, Command line (bash, CMD), Jira
+### Skills
+  - **Languages:** Java, Python, JavaScript, React, Node.js, TypeScript, HTML, CSS, C++
+  - **Web development:**
+    - **Frameworks:** Express, Django, Django REST Framework, Flask, SpringBoot
+    - **APIs:** REST, GraphQL
+  - **Databases:** SQL, PostgreSQL, Transact-SQL, MongoDB
+  - **Containers:** Docker, OpenShift
+  - **Agile methods:** Scrum, Kanban
+  - **Other:** Git, Command line (bash, CMD), Jira
 
-- 🌱 Recently I have been learning about...
+### Recently I have been learning about 🌱
   - GraphQL
   - Microsoft Azure
   - Swift
